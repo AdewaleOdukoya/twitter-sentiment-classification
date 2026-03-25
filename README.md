@@ -87,7 +87,6 @@ jupyter notebook
 
 The dataset contains tweets and corresponding sentiment labels.
 
-(Note: Add dataset source if public)
 
 ---
 
