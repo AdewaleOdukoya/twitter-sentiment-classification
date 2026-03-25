@@ -71,6 +71,10 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+## Deployment Stack
+- Streamlit (Frontend & App Hosting)
+- Scikit-learn (Model)
+- Python (Backend logic)
 ---
 
 ## Author
